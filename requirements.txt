@@ -1,0 +1,5 @@
+numpy
+joblib
+streamlit
+pandas
+scikit-learn  #for use sklearn
